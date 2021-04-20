@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Igre o Hermanu Dalmatinu</title>
+    <link href="https://borna12.github.io/herman-dalmatin/feed.xml" rel="self" />
+    <link href="https://borna12.github.io/herman-dalmatin" />
+    <updated>2021-04-20T14:47:45+02:00</updated>
+    <author>
+        <name>Marijana Borić, Josip Mihaljević</name>
+    </author>
+    <id>https://borna12.github.io/herman-dalmatin</id>
+
+    <entry>
+        <title>Slagalica</title>
+        <author>
+            <name>Marijana Borić, Josip Mihaljević</name>
+        </author>
+        <link href="https://borna12.github.io/herman-dalmatin/slagalica.html"/>
+        <id>https://borna12.github.io/herman-dalmatin/slagalica.html</id>
+
+        <updated>2021-04-20T14:44:39+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://borna12.github.io/herman-dalmatin/media/posts/2/og-slika.png" alt="" />
+                    Spoji sličice te doznaj više o Hermanu Dalmatinu.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://borna12.github.io/herman-dalmatin/media/posts/2/og-slika.png" alt="" />
+                <div>
+<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pamtilica</title>
+        <author>
+            <name>Marijana Borić, Josip Mihaljević</name>
+        </author>
+        <link href="https://borna12.github.io/herman-dalmatin/pamtilica.html"/>
+        <id>https://borna12.github.io/herman-dalmatin/pamtilica.html</id>
+
+        <updated>2021-04-20T14:47:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://borna12.github.io/herman-dalmatin/media/posts/1/pamtilica_web.jpg" alt="" />
+                    Spoji sličice te doznaj više o Hermanu Dalmatinu.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://borna12.github.io/herman-dalmatin/media/posts/1/pamtilica_web.jpg" alt="" />
+                <div>
+<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+</feed>

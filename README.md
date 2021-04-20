@@ -1,2 +1,0 @@
-# herman-dalmatin
-#nesto

@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Igre o Hermanu Dalmatinu",
+    "description": "",
+    "home_page_url": "https://borna12.github.io/herman-dalmatin",
+    "feed_url": "https://borna12.github.io/herman-dalmatin/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marijana Borić, Josip Mihaljević"
+    },
+    "items": [
+        {
+            "id": "https://borna12.github.io/herman-dalmatin/slagalica.html",
+            "url": "https://borna12.github.io/herman-dalmatin/slagalica.html",
+            "title": "Slagalica",
+            "summary": "Spoji sličice te doznaj više o Hermanu Dalmatinu.",
+            "content_html": "<div>\n<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>\n</div>",
+            "image": "https://borna12.github.io/herman-dalmatin/media/posts/2/og-slika.png",
+            "author": {
+                "name": "Marijana Borić, Josip Mihaljević"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-20T14:42:02+02:00",
+            "date_modified": "2021-04-20T14:44:39+02:00"
+        },
+        {
+            "id": "https://borna12.github.io/herman-dalmatin/pamtilica.html",
+            "url": "https://borna12.github.io/herman-dalmatin/pamtilica.html",
+            "title": "Pamtilica",
+            "summary": "Spoji sličice te doznaj više o Hermanu Dalmatinu.",
+            "content_html": "<div>\n<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>\n</div>",
+            "image": "https://borna12.github.io/herman-dalmatin/media/posts/1/pamtilica_web.jpg",
+            "author": {
+                "name": "Marijana Borić, Josip Mihaljević"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-20T14:41:56+02:00",
+            "date_modified": "2021-04-20T14:47:45+02:00"
+        }
+    ]
+}
