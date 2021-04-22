@@ -15,14 +15,14 @@
             "title": "Slagalica",
             "summary": "Spoji sličice te doznaj više o Hermanu Dalmatinu.",
             "content_html": "<div>\n<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>\n</div>",
-            "image": "https://borna12.github.io/herman-dalmatin/media/posts/2/og-slika.png",
+            "image": "https://borna12.github.io/herman-dalmatin/media/posts/2/slagalica.jpg",
             "author": {
                 "name": "Marijana Borić, Josip Mihaljević"
             },
             "tags": [
             ],
             "date_published": "2021-04-20T14:42:02+02:00",
-            "date_modified": "2021-04-20T14:44:39+02:00"
+            "date_modified": "2021-04-22T10:24:21+02:00"
         },
         {
             "id": "https://borna12.github.io/herman-dalmatin/pamtilica.html",
@@ -30,14 +30,14 @@
             "title": "Pamtilica",
             "summary": "Spoji sličice te doznaj više o Hermanu Dalmatinu.",
             "content_html": "<div>\n<div>Spoji sličice te doznaj više o Hermanu Dalmatinu.</div>\n</div>",
-            "image": "https://borna12.github.io/herman-dalmatin/media/posts/1/pamtilica_web.jpg",
+            "image": "https://borna12.github.io/herman-dalmatin/media/posts/1/pamtilica.jpg",
             "author": {
                 "name": "Marijana Borić, Josip Mihaljević"
             },
             "tags": [
             ],
             "date_published": "2021-04-20T14:41:56+02:00",
-            "date_modified": "2021-04-20T14:47:45+02:00"
+            "date_modified": "2021-04-22T10:27:29+02:00"
         }
     ]
 }
