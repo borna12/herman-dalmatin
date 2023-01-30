@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Slagalice o Hermanu Dalmatinu</title>
-    <meta name="description" content="Zabavi se spajajući dijelove slagalica vezane za Hermana Dalmatina.">
+    <title>Jigsaw Puzzles about Herman Dalmatin</title>
+    <meta name="description" content="Have fun putting together the puzzle pieces related to Herman Dalmatin.">
     <meta name="author" content="Josip Mihaljević">
     <link rel="stylesheet" href="../stlye.css" />
     <link rel="stylesheet" href="css/stil.css" />
@@ -18,8 +18,8 @@
     <script type="text/javascript" src="assets/index.js"></script>
     <meta name="viewport" content="width=device-width, user-scalable=no" />
     <link href="css/fontawesome-all.css" rel="stylesheet">
-    <meta property="og:title" content="Slagalice" />
-    <meta property="og:description" content="Zabavi se spajajući dijelove slagalica vezane za Hermana Dalmatina." />
+    <meta property="og:title" content="Jigsaw Puzzles about Herman Dalmatin" />
+    <meta property="og:description" content="Have fun putting together the puzzle pieces related to Herman Dalmatin." />
     <meta property="og:image" content="og-slika.png" />
     <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
@@ -49,13 +49,13 @@
             <div class="topnav" id="myTopnav">
             </div>
             <div id="content">
-                <h1 class="naslov hr">Slagalice</h1>
-                <h1 class="naslov eng">Puzzles</h1>
-                <p class="opis hr">odaberite broj komadića i pritisnite jednu od slika za slaganje</p>
+                <h1 class="naslov hr">Jigsaw Puzzle</h1>
+                <h1 class="naslov eng">Jigsaw Puzzle</h1>
+                <p class="opis hr">choose the number of puzzle pieces and then choose an image</p>
                 <p class="opis eng">choose the number of puzzle pieces and then choose an image</p>
                 <div style="text-align: center;">
                     <div class="kom_izbornik">
-                        <span class="retci-oznaka hr">broj komadića po retcima:</span>
+                        <span class="retci-oznaka hr">number of pieces in row:</span>
                         <span class="retci-oznaka eng">number of pieces in row:</span>
                         <select id="retci" onchange="broj()">
                             <option value="2">2</option>
@@ -81,7 +81,7 @@
                         </select>
                     </div>
                     <div class="kom_izbornik">
-                        <span class="stupci-oznaka hr">broj komadića po stupcima:</span>
+                        <span class="stupci-oznaka hr">number of pieces in column:</span>
                         <span class="stupci-oznaka eng">number of pieces in column:</span>
                         <select id="stupci" onchange="broj()">
                             <option value="2">2</option>
@@ -106,7 +106,7 @@
                         </select>
                     </div>
                 </div>
-                <p class="centar"><span class="ukupan hr">ukupan broj komadića za slaganje: </span><span class="ukupan eng">total number of pieces: </span><span id="broj-puzzla"></span></p>
+                <p class="centar"><span class="ukupan hr">total number of pieces: </span><span class="ukupan eng">total number of pieces: </span><span id="broj-puzzla"></span></p>
                 <div class="grid">
                     <div class="kartice" style="text-align:right"><img src="assets/1.jpg" class="ikone" onclick="slika = '1.jpg'; naslov= 'Naslov';stvori();"></div>
                     <div class="kartice" style="text-align:left"><img src="assets/4.jpg" class="ikone" onclick="slika = '4.jpg'; naslov= 'Smiljan';stvori();"></div>
@@ -143,7 +143,7 @@
                     <a href="#" onclick="localStorage.setItem('jezik','eng');promijeni_jezik()"> <img src="en.png" class="zastavice engleski" /></a>
 
                 </div>
-                <p class="centar"  ><a href="../" style="text-align: center; color: rgb(5 33 91);" id="nazad">ODABERI DRUGU IGRU</a></p>
+                <p class="centar"  ><a href="../../eng.html" style="text-align: center; color: rgb(5 33 91);" id="nazad">PLAY ANOTHER GAME</a></p>
             </div>
         </div>
     </div>
