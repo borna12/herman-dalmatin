@@ -106,7 +106,7 @@ function igra() {
                         title: '' + $(this).attr('data-ime'),
                         html: '<img src="slike/' + sadrzaj + "/" + $(this).attr('data-id') + '.jpg" class="ikone"/><p>' + $(this).attr('data-opis') + '</p>',
                         showCloseButton: true,
-                        confirmButtonText: 'dalje',
+                        confirmButtonText: 'next',
                         /*allowOutsideClick: false,*/
                         /*allowEscapeKey: false*/
                         onClose: () => {
